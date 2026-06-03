@@ -14,12 +14,22 @@ It exists only as a test fixture for Dependabot and other software composition a
 - H2 Database `1.4.197` — CVE-2022-23221
 - Tomcat Embed Core `9.0.30` — CVE-2020-1938 coverage demonstration
 
+## Build with Gradle
 ## Build
 
 ```bash
 gradle build
 ```
 
+## Build with Maven
+
+A matching `pom.xml` is included alongside `build.gradle` so Dependabot can scan the same intentionally vulnerable dependency set through the Maven ecosystem as well.
+
+```bash
+mvn test
+```
+
+## Run with Gradle
 ## Run
 
 ```bash
