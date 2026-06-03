@@ -15,6 +15,7 @@ It exists only as a test fixture for Dependabot and other software composition a
 - Tomcat Embed Core `9.0.30` — CVE-2020-1938 coverage demonstration
 
 ## Build with Gradle
+## Build
 
 ```bash
 gradle build
@@ -29,15 +30,10 @@ mvn test
 ```
 
 ## Run with Gradle
+## Run
 
 ```bash
 gradle run
-```
-
-## Run with Maven
-
-```bash
-mvn exec:java
 ```
 
 ## Gradle Wrapper Note
