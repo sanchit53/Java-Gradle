@@ -14,11 +14,20 @@ It exists only as a test fixture for Dependabot and other software composition a
 - H2 Database `1.4.197` — CVE-2022-23221
 - Tomcat Embed Core `9.0.30` — CVE-2020-1938 coverage demonstration
 
-<img width="1758" height="900" alt="image" src="https://github.com/user-attachments/assets/1c9f00bb-07f9-43d8-8f3f-a674ef4065dd" />
+# Dependabot Configuration
 
 
 <img width="1477" height="936" alt="image" src="https://github.com/user-attachments/assets/73186ba7-a9e0-4685-bf78-f46b93a3f593" />
 
+# Dependabot Alerts with pom.xml present in the code
+
+
+<img width="1758" height="900" alt="image" src="https://github.com/user-attachments/assets/1c9f00bb-07f9-43d8-8f3f-a674ef4065dd" />
+
+# Dependabot Alerts with pom.xml deleted from the code
+
+
+<img width="1655" height="907" alt="image" src="https://github.com/user-attachments/assets/8f82afa8-d57f-43e1-befc-2c0cdb840f89" />
 
 ## Build with Gradle
 ## Build
