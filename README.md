@@ -14,8 +14,13 @@ It exists only as a test fixture for Dependabot and other software composition a
 - H2 Database `1.4.197` — CVE-2022-23221
 - Tomcat Embed Core `9.0.30` — CVE-2020-1938 coverage demonstration
 
+<img width="1758" height="900" alt="image" src="https://github.com/user-attachments/assets/1c9f00bb-07f9-43d8-8f3f-a674ef4065dd" />
+
+
 ## Build with Gradle
 ## Build
+
+
 
 ```bash
 gradle build
@@ -43,3 +48,5 @@ This repository keeps `gradle/wrapper/gradle-wrapper.properties` pinned to Gradl
 ```bash
 gradle wrapper --gradle-version 7.6
 ```
+
+
