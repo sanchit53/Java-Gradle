@@ -17,6 +17,9 @@ It exists only as a test fixture for Dependabot and other software composition a
 <img width="1758" height="900" alt="image" src="https://github.com/user-attachments/assets/1c9f00bb-07f9-43d8-8f3f-a674ef4065dd" />
 
 
+<img width="1477" height="936" alt="image" src="https://github.com/user-attachments/assets/73186ba7-a9e0-4685-bf78-f46b93a3f593" />
+
+
 ## Build with Gradle
 ## Build
 
