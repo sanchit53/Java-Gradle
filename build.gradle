@@ -22,7 +22,7 @@ dependencies {
     implementation 'org.apache.logging.log4j:log4j-core:2.14.1'              // Log4Shell CVE-2021-44228
     implementation 'org.springframework:spring-core:5.2.0.RELEASE'          // CVE-2022-22965
     implementation 'com.fasterxml.jackson.core:jackson-databind:2.9.8'      // CVE-2019-14379
-    implementation 'commons-collections:commons-collections:3.2.1'          // CVE-2015-6420
+    implementation 'commons-collections:commons-collections:3.2.2'          // CVE-2015-6420
     implementation 'org.hibernate:hibernate-core:5.4.0.Final'               // Known CVEs
     implementation 'com.h2database:h2:1.4.197'                              // CVE-2022-23221
     implementation 'org.apache.tomcat.embed:tomcat-embed-core:9.0.30'       // CVE-2020-1938
