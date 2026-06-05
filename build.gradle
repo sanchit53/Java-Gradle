@@ -24,7 +24,7 @@ dependencies {
     implementation 'com.fasterxml.jackson.core:jackson-databind:2.9.8'      // CVE-2019-14379
     implementation 'commons-collections:commons-collections:3.2.1'          // CVE-2015-6420
     implementation 'org.hibernate:hibernate-core:5.4.0.Final'               // Known CVEs
-    implementation 'com.h2database:h2:1.4.197'                              // CVE-2022-23221
+    implementation 'com.h2database:h2:2.4.240'                              // CVE-2022-23221
     implementation 'org.apache.tomcat.embed:tomcat-embed-core:9.0.30'       // CVE-2020-1938
 
     testImplementation 'junit:junit:4.13.2'
